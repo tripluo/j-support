@@ -1,2 +1,2 @@
-# innjj-support
+# j-support
 A pile of codes, LTS.
